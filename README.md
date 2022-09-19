@@ -1,17 +1,6 @@
-# 00. Python - Hello, World
-Python
-
-# Tasks
- 0. Run Python file
- 1. Run inline
- 2. Hello, print
- 3. Print integer
- 4. Print float
- 5. Print string
- 6. Play with strings
- 7. Copy - Cut - Paste
- 8. Create a new sentence
- 9. Easter Egg
- 10. Linked list cycle
- 11. Hello, write
- 12. Compile
+# Python Encyclopedia
+ 0. Total Python written by user.
+ 1. Python Version used is 3.10.7
+ 2. Python Compiler used is Pep 8.
+ 3. Python User Author is Afolabi John Oluwaseun
+ 4. Written codes to succession done.
