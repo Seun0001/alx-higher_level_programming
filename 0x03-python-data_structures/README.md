@@ -3,7 +3,7 @@
 
 ## **Tasks** ## 
 <ul style="list-style-type:circle">
-<li> 0. <em>  **Print a list of integer** </em> </li>
+<li> 0. <em>  <strong>Print a list of integer</strong> </em> </li>
 <li> 1. <em>  Secure access to an element in a list </em> </li>
 <li> 2. <em>  Replace element </em> </li>
 <li> 3. <em>  Print a list of integers... in reverse! </em> </li>
