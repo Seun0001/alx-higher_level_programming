@@ -5,38 +5,38 @@
 ___
  ***0. Squared simple***
 ___
- **1. Search and replace**
+ ***1. Search and replace***
 ___
- **2. Unique addition**
+ ***2. Unique addition***
 ___
- **3. Present in both**
+ ***3. Present in both***
 ___
- **4. Only differents**
+ ***4. Only differents***
 ___
- **5. Number of keys**
+ ***5. Number of keys***
 ___
- **6. Print sorted dictionary**
+ ***6. Print sorted dictionary***
 ___
- **7. Update dictionary**
+ ***7. Update dictionary***
 ___
- **8. Simple delete by key**
+ ***8. Simple delete by key***
 ___
-  _9. Multiply by 2_
+ ***9. Multiply by 2***
 ___
-  _10. Best score_
+ ***10. Best score***
 ___
-  _11. Multiply by using map_
+ ***11. Multiply by using map***
 ___
-  _12. Roman to Integer_
+ ***12. Roman to Integer***
 ___
-  _13. Weighted average!_
+ ***13. Weighted average!***
 ___
-  _14. Squared by using map_
+ ***14. Squared by using map***
 ___
-  _15. Delete by value_
+ ***15. Delete by value***
 ___
-  _16. CPython #1: PyBytesObject_
+ ***16. CPython #1: PyBytesObject***
 ___
 
-## Project By: ##
-###  Afolabi Oluwaseun John ###
+## **Project By:** ##
+###  **Afolabi Oluwaseun John** ###
