@@ -4,10 +4,15 @@
 ## **Tasks** ###
 ___
  **0. Squared simple**
+___
  **1. Search and replace**
- **2. Unique addition***
+___
+ **2. Unique addition**
+___
  **3. Present in both**
+__
  **4. Only differents**
+___
  **5. Number of keys**
  **6. Print sorted dictionary**
  **7. Update dictionary**
