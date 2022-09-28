@@ -1,7 +1,7 @@
 # 0x04. Python - More Data Structures: Set, Dictionary
-### Python
+### Python ###
 
-## Tasks
+## **Tasks** ###
  _0. Squared simple_
  **1. Search and replace**
  _2. Unique addition_
