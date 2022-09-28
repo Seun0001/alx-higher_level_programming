@@ -27,7 +27,7 @@ ___
 ___
   _11. Multiply by using map_
 ___
-  _12. Roman to Integer
+  _12. Roman to Integer_
 ___
   _13. Weighted average!_
 ___
