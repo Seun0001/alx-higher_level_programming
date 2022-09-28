@@ -3,7 +3,7 @@
 
 ## **Tasks** ###
 ___
- **0. Squared simple**
+ ***0. Squared simple***
 ___
  **1. Search and replace**
 ___
