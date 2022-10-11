@@ -5,9 +5,9 @@
 ___
 
 ```diff
-- 0. My first square\
+- 0. My first square <br />
 
-+ mandatory\
++ mandatory <br />
 
 + 1. Square with size\
 ___
