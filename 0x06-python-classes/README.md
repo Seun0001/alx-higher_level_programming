@@ -2,8 +2,7 @@
 ## Python  OOP
 
 ##**Tasks**##
-
-___
+```diff
 - 0. My first square
 ___
 + ##mandatory
@@ -45,9 +44,9 @@ ___
 + ##advanced
 ___
 + 10. ByteCode -> Python #5
-___
-+ ##advanced
 
++ ##advanced
+```
 ## Auth:
 ## Afolabi John Oluwaseun
 
