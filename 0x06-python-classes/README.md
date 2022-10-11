@@ -1,7 +1,7 @@
 # 0x06. Python - Classes and Objects
 ## Python  OOP
 
-##**Tasks**
+##Tasks##
 
 ```diff
 - 0. My first square
