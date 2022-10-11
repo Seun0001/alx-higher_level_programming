@@ -3,7 +3,6 @@
 
 ##**Tasks**##
 
-``` diff
 ___
 - 0. My first square
 ___
@@ -48,7 +47,7 @@ ___
 + 10. ByteCode -> Python #5
 ___
 + ##advanced
-```
+
 ## Auth:
 ## Afolabi John Oluwaseun
 
