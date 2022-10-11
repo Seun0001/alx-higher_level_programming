@@ -1,7 +1,8 @@
 # 0x06. Python - Classes and Objects
 ## Python  OOP
 
-##**Tasks**##
+##**Tasks**
+
 ```diff
 - 0. My first square
 ___
@@ -37,7 +38,7 @@ ___
 ___
 @@ 8. Print Square instance @@
 ___
-##advanced
+@@ ##advanced @@
 ___
 @@ 9. Compare 2 squares @@
 ___
