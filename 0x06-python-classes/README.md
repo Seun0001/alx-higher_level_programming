@@ -9,45 +9,45 @@ ___
 
 + mandatory 
 
-+ 1. Square with size\
-___
-+ mandatory
-___
-! 2. Size validation
-___
-+ mandatory
-___
-! 3. Area of a square
-___
-+ mandatory
-___
-@@ 4. Access and update private attribute @@
-___
-! mandatory
-___
-- 5. Printing a square
-___
-! mandatory
-___
-+ 6. Coordinates of a square
-___
-! mandatory
-___
-! 7. Singly linked list
-___
-+ advanced
-___
-@@ 8. Print Square instance @@
-___
-@@ advanced @@
-___
-@@ 9. Compare 2 squares @@
-___
-+ advanced
-___
-+ 10. ByteCode -> Python #5
++ 1. Square with size 
 
-+ advanced
++ mandatory 
+
+! 2. Size validation 
+
++ mandatory 
+
+! 3. Area of a square 
+
++ mandatory 
+
+@@ 4. Access and update private attribute @@ 
+
+! mandatory 
+
+- 5. Printing a square 
+
+! mandatory 
+
++ 6. Coordinates of a square 
+
+! mandatory 
+
+! 7. Singly linked list 
+
++ advanced 
+
+@@ 8. Print Square instance @@ 
+
+@@ advanced @@ 
+
+@@ 9. Compare 2 squares @@ 
+
++ advanced 
+
++ 10. ByteCode -> Python #5 
+
++ advanced 
 ```
 ## Auth:
 ## Afolabi John Oluwaseun
