@@ -2,41 +2,52 @@
 ## Python   <p text-color = "yellow"> OOP </p>
 
 ##**Tasks**##
-<body background-color = "red">
+```diff
 ___
-<p> **0. My first square**
-***mandatory*** </p>
+- 0. My first square
 ___
-<p> **1. Square with size**
-***mandatory*** </p>
+##mandatory
 ___
-<p> **2. Size validation**
-***mandatory*** </p>
++ 1. Square with size
 ___
-<p> **3. Area of a square**
-***mandatory*** </p>
+##mandatory
 ___
-<p> **4. Access and update private attribute**
-***mandatory*** </p>
+! 2. Size validation
 ___
-<p> **5. Printing a square**
-***mandatory*** </p>
+##mandatory
 ___
-<p> **6. Coordinates of a square**
-***mandatory*** </p>
+# 3. Area of a square
 ___
-<p> **7. Singly linked list**
-***#advanced*** </p>
+##mandatory
 ___
-<p> **8. Print Square instance**
-***#advanced*** </p>
+@@ 4. Access and update private attribute @@
 ___
-<p> **9. Compare 2 squares**
-***#advanced*** </p>
+##mandatory
 ___
-<p> **10. ByteCode -> Python #5**
-***#advanced*** </p>
-</body>
+- 5. Printing a square
+___
+##mandatory
+___
++ 6. Coordinates of a square
+___
+##mandatory
+___
+! 7. Singly linked list
+___
+##advanced
+___
+# 8. Print Square instance
+___
+##advanced
+___
+@@ 9. Compare 2 squares @@
+___
+##advanced
+___
++ 10. ByteCode -> Python #5
+___
+#advanced
+```
 
 ## Auth:
 ## Afolabi John Oluwaseun
