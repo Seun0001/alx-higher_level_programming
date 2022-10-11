@@ -7,47 +7,47 @@ ___
 ```diff
 - 0. My first square
 ___
-+ ##mandatory
++ mandatory
 ___
 + 1. Square with size
 ___
-+ ##mandatory
++ mandatory
 ___
 ! 2. Size validation
 ___
-+ ##mandatory
++ mandatory
 ___
 ! 3. Area of a square
 ___
-+ ##mandatory
++ mandatory
 ___
 @@ 4. Access and update private attribute @@
 ___
-! ##mandatory
+! mandatory
 ___
 - 5. Printing a square
 ___
-! ##mandatory
+! mandatory
 ___
 + 6. Coordinates of a square
 ___
-! ##mandatory
+! mandatory
 ___
 ! 7. Singly linked list
 ___
-+ ##advanced
++ advanced
 ___
 @@ 8. Print Square instance @@
 ___
-@@ ##advanced @@
+@@ advanced @@
 ___
 @@ 9. Compare 2 squares @@
 ___
-+ ##advanced
++ advanced
 ___
 + 10. ByteCode -> Python #5
 
-+ ##advanced
++ advanced
 ```
 ## Auth:
 ## Afolabi John Oluwaseun
