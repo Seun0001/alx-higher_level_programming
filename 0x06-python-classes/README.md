@@ -5,11 +5,11 @@
 ___
 
 ```diff
-- 0. My first square
-___
-+ mandatory
-___
-+ 1. Square with size
+- 0. My first square\
+
++ mandatory\
+
++ 1. Square with size\
 ___
 + mandatory
 ___
