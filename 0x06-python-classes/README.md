@@ -1,8 +1,8 @@
 # 0x06. Python - Classes and Objects
-## Python   <p text-color = "yellow"> OOP </p>
+``` diff
+@@ ## Python @@ ! OOP
 
-##**Tasks**##
-```diff
++ ##**Tasks**##
 ___
 - 0. My first square
 ___
@@ -50,3 +50,4 @@ ___
 
 + ## Auth:
 + ## Afolabi John Oluwaseun
+```
