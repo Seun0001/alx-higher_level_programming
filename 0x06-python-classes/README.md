@@ -1,8 +1,8 @@
 # 0x06. Python - Classes and Objects
-``` diff
-@@ ## Python @@ ! OOP
+## @@ Python @@ ! OOP
 
 + ##**Tasks**##
+``` diff
 ___
 - 0. My first square
 ___
