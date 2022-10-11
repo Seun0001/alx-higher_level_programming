@@ -1,7 +1,8 @@
 # 0x06. Python - Classes and Objects
-## @@ Python @@ ! OOP
+## Python  OOP
 
 ##**Tasks**##
+
 ``` diff
 ___
 - 0. My first square
@@ -47,7 +48,7 @@ ___
 + 10. ByteCode -> Python #5
 ___
 + ##advanced
-
+```
 ## Auth:
 ## Afolabi John Oluwaseun
-```
+
