@@ -1,4 +1,5 @@
 # Test README
-'''diff
+
+```diff
 + All files intact here for testing.
-'''
+```
