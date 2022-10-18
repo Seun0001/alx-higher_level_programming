@@ -1,7 +1,7 @@
 # 0x08. Python - More Classes and Objects
 ## Python     OOP
 
-##**Tasks**## 
+## **Tasks** ## 
 
 ```diff
 + 0. Simple rectangle 
@@ -267,5 +267,5 @@
 - Read: Queen, Backtracking 
 ```
 
-##**Author:**
-###***Afolabi John Oluwaseun***###
+## **Author:**
+### ***Afolabi John Oluwaseun*** ###
