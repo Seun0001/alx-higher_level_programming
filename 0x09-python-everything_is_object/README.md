@@ -1,7 +1,7 @@
 # 0x09. Python - Everything is object
 ## Python  OOP 
+## **Tasks**
 
-##**Tasks**
 
 ```diff
 - 0. Who am I? 
@@ -173,7 +173,7 @@ mandatory
 + a = () 
 + Is a a tuple? Answer with Yes or No 
 
-##***Author:***
-##***Afolabi John Oluwaseun***
-
 ```
+
+## ***Author:***
+## ***Afolabi John Oluwaseun***
