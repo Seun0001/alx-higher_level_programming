@@ -1,7 +1,7 @@
 # 0x09. Python - Everything is object
 ## Python  OOP 
 
-##**Tasks**##
+##**Tasks**
 
 ```diff
 - 0. Who am I? 
@@ -175,6 +175,5 @@ mandatory
 
 ##***Author:***
 ##***Afolabi John Oluwaseun***
+
 ```
-
-
