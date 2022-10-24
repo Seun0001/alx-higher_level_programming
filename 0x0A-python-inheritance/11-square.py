@@ -16,10 +16,8 @@ class Square(Rectangle):
     """ Square Class """
     def __init__(self, size):
         """ size init"""
-        self.__size = size
         super().__init__(self.__size, self.__size)
+        self.__size = size
 
     def __str__(self):
-        self.__size = size
         return ("[Square] " + str(self.__size) + "/" + str(self.__size))
-
