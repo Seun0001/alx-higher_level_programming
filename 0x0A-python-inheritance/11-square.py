@@ -20,4 +20,6 @@ class Square(Rectangle):
         super().__init__(self.__size, self.__size)
 
     def __str__(self):
+        self.__size = size
         return ("[Square] " + str(self.__size) + "/" + str(self.__size))
+
